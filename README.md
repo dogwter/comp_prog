@@ -1,1 +1,1 @@
-# comp_prog
+competitive programming solns
