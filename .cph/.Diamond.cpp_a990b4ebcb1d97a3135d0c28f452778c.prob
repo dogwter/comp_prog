@@ -1,0 +1,1 @@
+{"name":"Local: Diamond","url":"c:\\Users\\atlan\\Downloads\\comp\\Diamond.cpp","tests":[{"id":1751560948494,"input":"7 3\n10\n5\n1\n12\n9\n5\n14","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\atlan\\Downloads\\comp\\Diamond.cpp","group":"local","local":true}

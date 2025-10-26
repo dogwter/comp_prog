@@ -1,0 +1,1 @@
+{"name":"Local: William","url":"c:\\Users\\atlan\\Downloads\\comp\\William.cpp","tests":[{"id":1756305952879,"input":"10\n1 3 4 9 5 2 5 5 3 6\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\atlan\\Downloads\\comp\\William.cpp","group":"local","local":true}

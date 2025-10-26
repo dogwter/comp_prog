@@ -1,0 +1,1 @@
+{"name":"Local: Mountain","url":"c:\\Users\\atlan\\Downloads\\comp\\Mountain.cpp","tests":[{"id":1752245027669,"input":"11\n3 4\n4 5\n14 5\n13 4\n24 5\n25 4\n35 4\n34 5\n45 4\n46 5\n47 4\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\atlan\\Downloads\\comp\\Mountain.cpp","group":"local","local":true}

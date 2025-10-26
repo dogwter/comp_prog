@@ -1,0 +1,1 @@
+{"name":"Local: Split","url":"c:\\Users\\atlan\\Downloads\\comp\\Split.cpp","tests":[{"id":1752343504801,"input":"6\n4 2\n8 10\n1 1\n9 12\n14 7\n2 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\atlan\\Downloads\\comp\\Split.cpp","group":"local","local":true}

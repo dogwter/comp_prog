@@ -1,0 +1,1 @@
+{"name":"Local: Loan Repayment","url":"c:\\Users\\atlan\\Downloads\\comp\\Loan Repayment.cpp","tests":[{"id":1751831324365,"input":"1000000000000 100000 1\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\atlan\\Downloads\\comp\\Loan Repayment.cpp","group":"local","local":true}

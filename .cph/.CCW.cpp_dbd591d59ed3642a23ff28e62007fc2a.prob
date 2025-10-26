@@ -1,0 +1,1 @@
+{"name":"Local: CCW","url":"c:\\Users\\atlan\\Downloads\\comp\\CCW.cpp","tests":[{"id":1756216737365,"input":"6 5 2\n0 4\n4 6\n8 10\n10 8\n12 12\n13 14\n2\n3\n5\n7\n11","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\atlan\\Downloads\\comp\\CCW.cpp","group":"local","local":true}

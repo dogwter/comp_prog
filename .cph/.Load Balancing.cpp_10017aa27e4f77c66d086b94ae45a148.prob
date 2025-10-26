@@ -1,0 +1,1 @@
+{"name":"Local: Load Balancing","url":"c:\\Users\\atlan\\Downloads\\comp\\Load Balancing.cpp","tests":[{"id":1751911798210,"input":"7\n7 3\n5 5\n7 13\n3 1\n11 7\n5 3\n9 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\atlan\\Downloads\\comp\\Load Balancing.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Magic Ship","url":"c:\\Users\\atlan\\Downloads\\comp\\Magic Ship.cpp","tests":[{"id":1751915187351,"input":"0 0\n0 1\n10\nUDDDDDDDDD","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\atlan\\Downloads\\comp\\Magic Ship.cpp","group":"local","local":true}

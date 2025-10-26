@@ -1,0 +1,1 @@
+{"name":"Local: Meeting","url":"c:\\Users\\atlan\\Downloads\\comp\\Meeting.cpp","tests":[{"id":1752091444346,"input":"3\n7 1 3\n1 2 1\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\atlan\\Downloads\\comp\\Meeting.cpp","group":"local","local":true}

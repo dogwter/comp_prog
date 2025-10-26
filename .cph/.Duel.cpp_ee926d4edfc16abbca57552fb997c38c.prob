@@ -1,0 +1,1 @@
+{"name":"Local: Duel","url":"c:\\Users\\atlan\\Downloads\\comp\\Duel.cpp","tests":[{"id":1755960710406,"input":"3 4\nDEF 100\nATK 200\nDEF 300\n101\n201\n301\n1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\atlan\\Downloads\\comp\\Duel.cpp","group":"local","local":true}

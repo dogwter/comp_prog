@@ -1,0 +1,1 @@
+{"name":"Local: Why","url":"c:\\Users\\atlan\\Downloads\\comp\\Why.cpp","tests":[{"id":1756475456007,"input":"5 4\n7\n8\n6\n2\n9\n2 5\n4 9\n0 3\n8 13","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\atlan\\Downloads\\comp\\Why.cpp","group":"local","local":true}

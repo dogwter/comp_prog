@@ -1,0 +1,1 @@
+{"name":"Local: Array","url":"c:\\Users\\atlan\\Downloads\\comp\\Array.cpp","tests":[{"id":1755610283449,"input":"5\n1 2 3 4 5\n2 1 2 1 2\n3\n2 2 9\n1 1 2\n2 2 1\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\atlan\\Downloads\\comp\\Array.cpp","group":"local","local":true}
